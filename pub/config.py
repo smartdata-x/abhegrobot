@@ -55,6 +55,7 @@ class SingletonConfig(object):
         self.bookurl = ""
         self.booksrc = ""
         self.bookdst = ""
+        self.relativepic = ""
         
         self.__read_config__()
         
@@ -66,5 +67,6 @@ class SingletonConfig(object):
         self.bookurl = config.get("book","url")
         self.booksrc = config.get("book","src")
         self.bookdst = config.get("book","dst")
+        self.relativepic = config.get("book","relativepic")
         
         

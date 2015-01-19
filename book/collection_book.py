@@ -22,14 +22,14 @@ class CollectionBook(object):
     calssdocs
     '''
     
-    def __init__(self,path,tar):
+    def __init__(self,path,tar,url):
         '''
         Constructor
         '''
         self.path = os.path.abspath(path)
         self.relative_path = tar #相对路径
         self.target_path = tar #绝对路径
-        self.host = "http://test.book.miglab.com"
+        self.host = url
         self.objs = []
         self.chapterlist = [0 for i in range(0)]
     
