@@ -52,10 +52,14 @@ class SingletonConfig(object):
         '''
         Constructor
         '''
+        self.spriderbookurl = ""
+        
         self.bookurl = ""
         self.booksrc = ""
         self.bookdst = ""
         self.relativepic = ""
+        self.apihost = ""
+        self.apiurl = ""
         
         self.__read_config__()
         
@@ -64,9 +68,16 @@ class SingletonConfig(object):
         config = ConfigParser.ConfigParser()
         config.read("config.ini")
         #sections = config.sections()
+        
+        #接口服务器
+        self.apiurl = config.get("api","url")
+        self.apihost = config.get("api","host")
+        
         self.bookurl = config.get("book","url")
         self.booksrc = config.get("book","src")
         self.bookdst = config.get("book","dst")
         self.relativepic = config.get("book","relativepic")
+        
+        self.spriderbookurl = config.get("spider","bookurl")
         
         
