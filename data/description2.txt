@@ -1,0 +1,414 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="Expires" content="0"/>
+	<meta http-equiv="Cache-Control" content="no-cache" />
+	<meta http-equiv="Cache-control" content="max-age=1700" />
+	<meta http-equiv="Pragma" content="no-cache"/>
+	
+	
+	<!--  
+	<meta name="viewport" content="width=device-width, initial-scale=1.3, minimum-scale=1.3, maximum-scale=1.3"/>
+	<meta name="viewport" content="initial-scale=1.3, minimum-scale=1.3, maximum-scale=1.3"/>
+	
+	<meta name="baidu-site-verification" content="EActxjg0Wj" />
+	<meta name="sogou_site_verification" content="jE6GDyMmaP"/>
+	-->
+	<meta name="viewport" content="width=device-width,user-scalable=no"/>
+	<meta name="MobileOptimized" content="240"/>
+	
+		
+			<meta name="keywords" content="天翼阅读" />
+		
+		
+	
+	
+	
+		
+			<meta name="description" content="天翼阅读" />
+		
+		
+	
+	
+	<link type="text/css" href="http://61.130.247.183/static/wap/style/simple/css/main.css" rel="stylesheet" id="internalStyle" />
+	
+	
+	
+	
+	
+	
+	
+	<title>第1章 意外_重生之重铸天朝_七匹孤狼_天翼阅读</title>
+	<script language="javascript">
+	<!--
+   if (top.location != location){
+	    var toplocation = top.location +"";
+		if(!(toplocation.indexOf("61.183.11.149:8080")>=0)){
+		   top.location.href = location.href;
+		}
+   }
+   //-->
+	</script>
+</head>
+
+	
+	
+	
+	
+	
+	<body>
+
+<a name="anch-0"></a>
+
+
+
+
+
+
+
+<style>
+    .article img{width:100%;}
+</style>
+<div class="mod-topbar">
+	<p>
+		
+		
+		
+			
+				
+				
+					<a href="/index.action?qdid=22302903&is_ctwap=1&f=2">男生</a>
+				
+				
+				
+			
+			<span class="split">&gt;</span>
+			
+			    
+			    
+			    
+			    	
+										
+							<a href="/zonghe/lishijunshi-342-2/index.html?qdid=22302903&is_ctwap=1&">历史军事</a>
+						
+						
+					
+			    
+			
+			
+			<span class="split">&gt;</span><a href="/bookdetail/100000225954593/gobookinfo.html?qdid=22302903&is_ctwap=1&">
+				<!--书本标题长的要截断：4个汉字-->
+				
+					
+					
+						重生之重...
+					
+				
+			</a>
+		
+	</p>
+</div>
+
+<div class="col-box pad-v">
+    
+    	
+    		
+    		
+    			
+    			
+    		
+    	
+    	
+    
+	    
+		
+		<div class="mt center txt-999">上一章</div>
+			
+		<a class="uline" href="/bookdetail/100000225954593/gochaptercontent-1.html?qdid=22302903&is_ctwap=1&fromModule=J-bookread-oprt-mulu">目录</a>&nbsp; 
+		<a href="/readSetInput.action?qdid=22302903&is_ctwap=1&bookId=100000225954593&chapterId=2&curPage=1&fromModule=J-bookread-oprt-shezhi&redirectURL=goChapterContent.action%3FbookId%3D100000225954593%26chapterId%3D2%26curpage%3D1" rel="nofollow" class="uline">设置</a>&nbsp; 
+		
+			
+				 <div class="mt center"><a class="uline" href="/goChapterContent.action?qdid=22302903&is_ctwap=1&bookId=100000225954593&fromModule=J-bookread-oprt-nextchapter&chapterId=3">下一章</a></div>
+			
+			
+		
+		
+   </div>
+
+<!--信息提示-->
+
+
+<div class="article" style="">
+	<div class="pad-v5">第1章 意外</div>
+	<div style="overflow:hidden;">
+		　　“大家应该知道，在一百二十年前，也就是公元1894年，甲午战争爆发。9月17日，北洋舰队于倭寇联合舰队在黄海大东沟海域遭遇，大东沟海战爆发。经过五个小时的激战，北洋水师遭受重创，致远，经远，超勇，扬威，广甲五艘军舰被击沉，定远，镇远等舰也受到不同程度损伤。从此北洋水师只能守港保船，拱手让出来制海权。当时万恶的倭寇军国主义并没有停止其侵略的脚步，1895年1月20日，日军进攻威海卫，威海卫保卫战爆发，激战十几日，腹背受敌的北洋水师最终全军覆灭。”一艘小型游轮上，一名年轻漂亮的导游正扶着柱子滔滔不绝的讲着这段悲惨的历史。</p><p>　　“大家请看我左手边的这片海域，这里就是古战场。一百二十年前，北洋水师就是在这里和入侵的日军浴血奋战的。可惜最终倭寇陆军攻占了陆路炮台，并调转炮口，轰击港内的北洋舰队，北洋舰队腹背受敌，最终全军覆灭！虽然这一战北洋水师战败了，但是北洋水师却涌现出了邓世昌，丁汝昌，刘步蟾，林泰曾，林永升等一大批宁死不降的民族英雄。”导游指着左手边的港口大声说道，声音中透出一丝惋惜。</p><p>　　“呸！狗屁！”坐在船上的任超忍不住呸了一声，一脸不屑的样子。“被该死的小鬼子堵在家门口，却连出门决战的勇气都没有，算的上哪门的的英雄。”任超小声嘟囔道，不过海上风大，再加上游轮“哒”的噪音，根本没有人听到任超说些什么。</p><p>　　“可以说甲午之战，改变了我华夏百年国运。”美女导游还在那里滔滔不绝的普及历史知识，“甲午战争最终以大清全面战败落下帷幕，李鸿章代表清政府在马关与倭寇人签订了丧权辱国的《马关条约》，该条约包括，大清承认朝鲜独立，实际承认朝鲜为倭寇控制。割让辽东半岛，台湾及其附属岛屿，澎湖列岛诸岛给倭寇，并赔偿倭寇军费两亿两等条款。可以说《马关条约》是自战争以来，最严重的不平等条约。不但割让了大片领土，严重破坏了我国主权完整，而且进一步刺激了帝国主义瓜分华夏的野心，最终使华夏彻底滑入半殖民地的深渊。而恰恰相反的是，倭寇却借助这场战争迅速的崛起，巨额的战争赔款，让倭寇的实力不断的强大起来，野心也极具膨胀。几十年之后，九一八事变日军侵占东三省，随后的1937年，七七事变爆发，倭寇发动全面侵华战争。我华夏军民经过八年艰苦卓绝的抗日战争，以三千多万伤亡为代价，才换来了最终的胜利……”</p><p>　　导游还在那里喋喋不休，任超却已经没有心情听下去了，这些历史任超可以说是倒背如流。任超看着远处的岛屿越来跃进，那里就是刘公岛了，当年北洋水师驻地。突然游艇一阵晃动，任超突然觉得一阵天旋地转，头晕的厉害。“该死！不会是晕船了吧！”任超心里暗道，说实话任超还真不知道自己是否晕船，因为这是他第一次坐船。随后任超感觉到一阵胸闷，恶心。</p><p>　　“他妈的，还真是晕船了！”任超小声嘟囔了一句，然后站了起来，看了一眼船尾，那里已经站满了游客。任超摇了摇头，看到船头竟然没有人，“站在船头吹吹风，应该会好受一点。”说着向船头走去。</p><p>　　“哎！你干什么去！”任超没走几步，便被一个穿着制服的老头拦了下来。</p><p>　　“去船头吹吹风！”任超随口说道。</p><p>　　“不能去船头，船头危险！想吹风可以去船尾。”老头不容置疑的说道，怪不得船头一个人没有。</p><p>　　“危险个屁呀！就这破船开的这么慢，还能掉下去不成。”任超心里抱怨道，但是还是老老实实的向着船尾走去。</p><p>　　任超费劲九牛二虎之力终于挤到一个位置，看着船尾后面翻滚的海水，似乎好受了一点。</p><p>　　美女导游扶了扶被海风吹歪的耳麦，接着说道，“所以我刚才说，甲午一战，百年国运由此改变。大家可以试想一下，如果当年清政府没有战败，那么也许就不会有之后的列强瓜分华夏的狂潮，也许就不会有八国联军侵华了……”</p><p>　　“哼！”任超冷哼了一声，摇了摇头心里暗道，“如果，也许，历史就是历史，哪有这么多如果也许！除非有个牛人像网络小说上写的那样，穿越回到过去，否则历史是不可能改变的。”任超看到旁边竟然有人抽烟，于是也伸出手摸出烟盒。</p><p>　　“轰！”的一声巨响，船头突然激起一个七八米高的水花，随后整个一阵剧烈的摇晃。任超一手拿着打火机，一手挡着风正在点烟，措不及防之下，重心失稳直接翻出了栏杆，掉进了冰冷的海水中。</p><p>　　“卧槽！”任超只来得及发出这样一声感慨，便被海水淹没了。必须马上回到水面，任超还没有失去意识，略识水性的他，马上手脚并用，想要回到水面。</p><p>　　但是就在这时诡异的一幕发生了。任超突然感觉一股巨大的吸力从身下传来，虽然任超极力挣扎，但是身体仍然不受控制的向着海底沉去。</p><p>　　“这是怎么个情况呀！”任超此时已经完全慌了，“难不成遇到鬼了！”想到刚才那一幕就够诡异的了，船走的好好的，好像突然撞到了什么东西，然后一船近百名游客，只有任超这个倒霉蛋一个人掉了下来，现在又碰上这么诡异的情况，不是撞鬼了是什么。</p><p>　　任超想到现在自己所处的地方，不禁一阵毛骨悚然，难道是因为自己刚才对于北洋水师官兵出言不逊，那些在威海卫战死的英魂来找自己索命了不成。虽然任超平时不信鬼神，但是现在碰到如此诡异的事情，也不由的信了。</p><p>　　“各位北洋水师的老爷们，小子愚昧无知，出言无状得罪了各位老爷，各位老爷念在小子年幼无知的份上，就饶了我吧！等我回去之后一定给各位老爷上香烧纸。”无计可施的任超只能在心里默默的祈祷了。</p><p>　　就在这时在任超身体的周围，突然出现一个巨大的漩涡，任超的身体开始不受控制的旋转起来。惊魂未定的任超，终于眼前一黑直接失去了意识。</p><p>　　任超的意识仿佛陷入了无尽的黑暗之中，也许是过了几秒钟，也许是过了几十年甚至是上百年，总之很久很久，任超终于慢慢的开始恢复意识。</p><p>　　“叮！系统正在激活，请稍后……系统激活成功，系统开始自动绑定用户，绑定成功。尊敬的用户，请问是否开启系统？”</p><p>　　任超迷迷糊糊的听到一个清脆的声音不断的在自己耳边响起，但是此时的任超脑袋昏昏沉沉的，根本就听不清这个声音说的是什么。</p><p>　　“尊敬的用户，请问是否启动系统？”过了大概半分钟那道声音再次在任超的耳边响起。</p><p>　　“嗯！”迷迷糊糊的任超嘴里发出嗯的一声。</p><p>　　“系统正在启动……系统启动成功！”</p><p>　　就在这时，任超突然感觉到眼前出现了一个巨大的时间轮盘，一个巨大的指针指着刻有甲午（2014）的位置，随后指针开始逆时针旋转，越转越快，仅仅两三秒钟的时间便转了两圈，等到指针停下的时候，指向的位置上赫然刻着甲午（1894）。</p>
+	</div>
+</div>
+
+	<div style="max-width:320px;overflow:hidden;">
+	<!-- 百度图片广告位 -->
+	<!-- PAGE0016 version=1 --><!-- 
+<div style="height:48px;margin:5px 10px;overflow:hidden;">
+<a target=_top href="http://wap.114admall.com/AdShow.aspx?pid=896"><img src="http://wap.114admall.com/img?pid=896" border="0" height="100%" width="100%"/></a>
+</div>
+-->
+<!-- 巨流 
+<script type="text/javascript" src="http://cbjs.baidu.com/js/mm.js"></script>
+<script type="text/javascript">
+function showBaiduAd(code){
+    if(!window.AD_CODE){
+		window.AD_CODE=[];
+	}
+	window.AD_CODE.push(code);
+	if(window.AD_CODE.length==1){
+		window.addEventListener('load', function(){
+			initBaiduAD();
+		}, false);
+	}
+}
+function initBaiduAD(){
+    window.AD_N=0;
+	var T=setInterval(function(){
+		window.AD_N++;
+		var l=window.AD_CODE.length;
+		var n=0;
+		for(var i=0; i<l; i++){
+			var box=document.getElementById('adw_'+window.AD_CODE[i]);
+			if(box){
+				var iframe=box.getElementsByTagName('iframe');
+				var img=box.getElementsByTagName('img');
+				var html;
+				if(iframe && iframe.length>0){
+					html=iframe[0].contentDocument.body.innerHTML;
+					if((/<img/ig).test(html)){
+						html=html.replace(/<img[^>]+src="([^"]+)"[^>]+>/ig, '<img src="$1" style="width:100%;" />');
+						box.innerHTML='<div class="mod-ad">'+html+'</div>';
+					}else{
+						box.innerHTML='<div class="mod-ad">'+html+'</div>';
+					}
+					document.getElementById('adw_'+window.AD_CODE[i]).style.display='block';
+					window.AD_CODE[i]=0;
+				}else if(img && img.length>0){
+					html=box.innerHTML;
+					html=html.replace(/<img[^>]+src="([^"]+)"[^>]+>/ig, '<img src="$1" style="width:100%;" />');
+					box.innerHTML='<div class="mod-ad">'+html+'</div>';
+					document.getElementById('adw_'+window.AD_CODE[i]).style.display='block';
+					window.AD_CODE[i]=0;
+				}else if(box.innerText.length>0){
+					html=box.innerHTML;
+					box.innerHTML='<div class="mod-ad">'+html+'</div>';
+					document.getElementById('adw_'+window.AD_CODE[i]).style.display='block';
+					window.AD_CODE[i]=0;
+				}
+			}
+			if(window.AD_CODE[i]==0){
+			    n++;
+			}
+		}
+		if(l==n || window.AD_N>60){
+		    window.AD_CODE=[],clearInterval(T),T=null;
+		}
+	}, 500);
+}
+</script>
+<div id="adw_763111" class="mod sec-mod" style="display:none;">
+        <script type="text/javascript">BAIDU_CLB_M_fillSlot("763111");</script>
+	<script type="text/javascript">showBaiduAd("763111");</script>
+</div>
+--><!-- PAGE0016 End -->
+	<br/>
+	</div>
+
+
+
+
+<div class="mod pad-b" style="text-align:center;">
+<div class="col-box pad-v">
+ 			
+		
+		<div class="mt center txt-999">上一章</div>
+		
+		<a class="uline" href="/bookdetail/100000225954593/gochaptercontent-1.html?qdid=22302903&is_ctwap=1&fromModule=J-bookread-oprt-mulu">目录</a>&nbsp; 
+		<a href="/readSetInput.action?qdid=22302903&is_ctwap=1&bookId=100000225954593&chapterId=2&curPage=1&redirectURL=goChapterContent.action%3FbookId%3D100000225954593%26chapterId%3D2%26curpage%3D1&fromModule=J-bookread-oprt-shezhi" rel="nofollow" class="uline">设置</a>&nbsp;
+		
+			
+				<div class="mt center"><a class="uline" href="/goChapterContent.action?qdid=22302903&is_ctwap=1&bookId=100000225954593&chapterId=3&fromModule=J-bookread-oprt-nextchapter">下一章</a></div>
+			
+			
+		
+		
+		</div>
+</div>
+<!-- 爸爸去哪儿活动显示链接 -->
+
+
+
+
+
+
+
+	
+	
+		
+		<div class="mod-title">猜你喜欢<br/></div>
+		<div class="mod">
+		
+		<ul>
+			
+				
+				
+					
+			       	<li>
+				  		<a href="/bookdetail/100000221444223/gobookinfo.html?qdid=22302903&is_ctwap=1&fromModule=J-bookread-cnxh-content-1">新守婚时代</a>
+					</li>
+			    
+					
+			       	<li>
+				  		<a href="/bookdetail/100000216117893/gobookinfo.html?qdid=22302903&is_ctwap=1&fromModule=J-bookread-cnxh-content-2">清宫熹妃传</a>
+					</li>
+			    
+					
+			       	<li>
+				  		<a href="/bookdetail/100000217213044/gobookinfo.html?qdid=22302903&is_ctwap=1&fromModule=J-bookread-cnxh-content-3">雷人漫画第1集</a>
+					</li>
+			    
+		    
+		    
+		</ul>
+		</div>
+	
+
+
+
+<script>
+//天翼送豪礼活动
+var isFirstRead="false";
+var isFirstBuy="";
+if(isFirstRead=="true"&&isFirstBuy=="true"){
+	window.onload=function(){
+		alert("感谢亲的翻阅与订购，天翼阅读现赠送您100阅点。");
+	};
+}else if(isFirstRead=="true"){
+	window.onload=function(){
+		alert("感谢亲的翻阅，天翼阅读现赠送您50阅点。");
+	};
+}else if(isFirstBuy=="true"){
+	window.onload=function(){
+		alert("感谢亲的订购，天翼阅读现赠送您50阅点。");
+	};
+}
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<div class="mod pad-v">
+		    <a href="#top" class="link-gotop">回顶部</a>
+		</div>
+	
+
+
+
+<div class="mod"> 
+	<ul>
+		<li>
+			
+				
+				<a href="javascript:history.back(-1)"  style="color: #0B62A7" target="_top">返回上一页</a>
+			&nbsp;
+			
+				
+					
+				
+			
+		</li>
+	</ul>
+</div>
+	
+<div class="foot-nav">
+	<p>
+		<a href="/index.action?qdid=22302903&is_ctwap=1&fromModule=J-global-endNav-shucheng" rel="nofollow">首页</a>
+		<a href="/pindao/nansheng/index.html?qdid=22302903&is_ctwap=1&fromModule=J-global-endNav-boy" rel="nofollow">男频</a>
+       	<a href="/pindao/nvsheng/index.html?qdid=22302903&is_ctwap=1&fromModule=J-global-endNav-girl" rel="nofollow">女频</a>
+		<a href="/pindao/pinzhi/index.html?qdid=22302903&is_ctwap=1&fromModule=J-global-endNav-pz" rel="nofollow">出版</a>
+		<a href="/bookmark_getSystemBookMark.action?qdid=22302903&is_ctwap=1&fromModule=J-global-endNav-bookshelf" rel="nofollow">书架</a>
+	</p>
+	
+	<p>
+		<a href="/magazineList.action?qdid=22302903&is_ctwap=1&fltype=3&fromModule=J-global-endNav-magazine" rel="nofollow">杂志</a>
+		<a href="/cartoonChannel.action?qdid=22302903&is_ctwap=1&fromModule=J-global-endNav-cartoon" rel="nofollow">漫画</a>
+		<a href="/baoyueListAction.action?qdid=22302903&is_ctwap=1&fromModule=J-global-endNav-package" rel="nofollow">包月</a>
+		<a href="/help.action?qdid=22302903&is_ctwap=1&fromModule=J-global-endNav-help" rel="nofollow">帮助</a>
+		<a href="http://wap.tyread.com/cms/client/jian/jian_index.jsp?qdid=22302903&is_ctwap=1&fromModule=J-global-endNav-download" rel="nofollow">客户端</a>
+	</p>
+</div>
+<div class="footer">
+	<p class="version">&lt;<a href="/goChapterContent.action?bookId=100000225954593&chapterId=2&curpage=1&qdid=22302903&is_ctwap=1&xtype=1&fromModule=J-global-foot-j" rel="nofollow">简版</a><span> | </span><a href="/goChapterContent.action?bookId=100000225954593&chapterId=2&curpage=1&qdid=22302903&is_ctwap=1&xtype=2&fromModule=J-global-foot-X" rel="nofollow">炫版</a>&gt;
+	<!-- 退出 -->
+	   
+			
+				
+			
+			
+		
+	</p>
+	<p>浙网文[2012]0865-089</p>
+	<p>浙B2-20120340</p>
+	<p>客服电话:118178<font class="txt-red">(8:00-24:00)</font></p>
+	<p>微信服务号：天翼阅读</p>
+</div>
+
+
+<!-- Times : 59ms -->
+
+
+
+
+
+<img src="http://hm.baidu.com/hm.gif?si=1079a22e86e78cc89cf913a8e2f0b3f3&amp;et=0&amp;nv=1&amp;st=1&amp;v=wap-2-0.3&amp;rnd=902025330" width="0" height="0"  />
+</body>
+</html>

@@ -1,0 +1,535 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="Expires" content="0"/>
+	<meta http-equiv="Cache-Control" content="no-cache" />
+	<meta http-equiv="Cache-control" content="max-age=1700" />
+	<meta http-equiv="Pragma" content="no-cache"/>
+	
+	
+	<!--  
+	<meta name="viewport" content="width=device-width, initial-scale=1.3, minimum-scale=1.3, maximum-scale=1.3"/>
+	<meta name="viewport" content="initial-scale=1.3, minimum-scale=1.3, maximum-scale=1.3"/>
+	
+	<meta name="baidu-site-verification" content="EActxjg0Wj" />
+	<meta name="sogou_site_verification" content="jE6GDyMmaP"/>
+	-->
+	<meta name="viewport" content="width=device-width,user-scalable=no"/>
+	<meta name="MobileOptimized" content="240"/>
+	
+		
+			<meta name="keywords" content="天翼阅读" />
+		
+		
+	
+	
+	
+		
+			<meta name="description" content="天翼阅读" />
+		
+		
+	
+	
+	<link type="text/css" href="http://61.130.247.183/static/wap/style/simple/css/main.css" rel="stylesheet" id="internalStyle" />
+	
+	
+		<link rel="canonical" href="http://wap.tyread.com/bookdetail/100000225954593/gobookdescription.html"/>
+	
+	
+	
+	
+	
+	
+	<title>重生之重铸天朝简介,最新章节目录列表,作者：七匹孤狼 未完本_历史军事_连载_天翼阅读</title>
+	<script language="javascript">
+	<!--
+   if (top.location != location){
+	    var toplocation = top.location +"";
+		if(!(toplocation.indexOf("61.183.11.149:8080")>=0)){
+		   top.location.href = location.href;
+		}
+   }
+   //-->
+	</script>
+</head>
+
+	
+	
+	
+	
+	
+	<body>
+
+<a name="anch-0"></a>
+
+
+
+
+
+<div class="mod-topbar">
+	<p>
+		<a href="/index.action">首页</a><span class="split">&gt;</span>
+		<a href="/bookdetail/100000225954593/gobookinfo.html?qdid=22302903&is_ctwap=1&">重生之重铸天朝</a><span class="split">&gt;</span>
+		<span class="split">目录</span>
+	</p>
+</div>
+
+	
+
+<div class="mod bg-lightgray">
+<label class="txt-000"><a id="con" name="con"></a>排序：</label>
+  
+  
+		<a href="/bookdetail/100000225954593/gobookdescription.html?qdid=22302903&is_ctwap=1&curpage=9&orderBy=1&fromModule=J-bookmulu-mulu-daoxu" rel="nofollow">倒序</a>&nbsp;|&nbsp;顺序
+  
+</div>	
+<ul class="list-lines">
+	
+	
+		
+	
+	
+		<li>
+		
+	    
+			
+			
+				<a href="/goChapterContent.action?qdid=22302903&is_ctwap=1&bookId=100000225954593&chapterId=162&fromModule=J-bookmulu-mulu-chapter" rel="nofollow">第一卷 甲午战争-第161章 激战北京城</a>
+				 
+				
+			
+		
+		
+		</li>
+	
+		<li>
+		
+	    
+			
+			
+				<a href="/goChapterContent.action?qdid=22302903&is_ctwap=1&bookId=100000225954593&chapterId=163&fromModule=J-bookmulu-mulu-chapter" rel="nofollow">第一卷 甲午战争-第162章 鬼子的偷袭</a>
+				 
+				
+			
+		
+		
+		</li>
+	
+		<li>
+		
+	    
+			
+			
+				<a href="/goChapterContent.action?qdid=22302903&is_ctwap=1&bookId=100000225954593&chapterId=164&fromModule=J-bookmulu-mulu-chapter" rel="nofollow">第一卷 甲午战争-第163章 猪一样的队友</a>
+				 
+				
+			
+		
+		
+		</li>
+	
+		<li>
+		
+	    
+			
+			
+				<a href="/goChapterContent.action?qdid=22302903&is_ctwap=1&bookId=100000225954593&chapterId=165&fromModule=J-bookmulu-mulu-chapter" rel="nofollow">第一卷 甲午战争-第164章 人间炼狱</a>
+				 
+				
+			
+		
+		
+		</li>
+	
+		<li>
+		
+	    
+			
+			
+				<a href="/goChapterContent.action?qdid=22302903&is_ctwap=1&bookId=100000225954593&chapterId=166&fromModule=J-bookmulu-mulu-chapter" rel="nofollow">第一卷 甲午战争-第165章 招兵买马</a>
+				 
+				
+			
+		
+		
+		</li>
+	
+		<li>
+		
+	    
+			
+			
+				<a href="/goChapterContent.action?qdid=22302903&is_ctwap=1&bookId=100000225954593&chapterId=167&fromModule=J-bookmulu-mulu-chapter" rel="nofollow">第一卷 甲午战争-第166章 说服李鸿章</a>
+				 
+				
+			
+		
+		
+		</li>
+	
+		<li>
+		
+	    
+			
+			
+				<a href="/goChapterContent.action?qdid=22302903&is_ctwap=1&bookId=100000225954593&chapterId=168&fromModule=J-bookmulu-mulu-chapter" rel="nofollow">第一卷 甲午战争-第167章 内外夹攻</a>
+				 
+				
+			
+		
+		
+		</li>
+	
+		<li>
+		
+	    
+			
+			
+				<a href="/goChapterContent.action?qdid=22302903&is_ctwap=1&bookId=100000225954593&chapterId=169&fromModule=J-bookmulu-mulu-chapter" rel="nofollow">第一卷 甲午战争-第168章 请求紧急支援</a>
+				 
+				
+			
+		
+		
+		</li>
+	
+		<li>
+		
+	    
+			
+			
+				<a href="/goChapterContent.action?qdid=22302903&is_ctwap=1&bookId=100000225954593&chapterId=170&fromModule=J-bookmulu-mulu-chapter" rel="nofollow">第一卷 甲午战争-第169章 黑木为桢授首</a>
+				 
+				
+			
+		
+		
+		</li>
+	
+		<li>
+		
+	    
+			
+			
+				<a href="/goChapterContent.action?qdid=22302903&is_ctwap=1&bookId=100000225954593&chapterId=171&fromModule=J-bookmulu-mulu-chapter" rel="nofollow">第一卷 甲午战争-第170章 难以置信</a>
+				 
+				
+			
+		
+		
+		</li>
+	
+		<li>
+		
+	    
+			
+			
+				<a href="/goChapterContent.action?qdid=22302903&is_ctwap=1&bookId=100000225954593&chapterId=172&fromModule=J-bookmulu-mulu-chapter" rel="nofollow">第一卷 甲午战争-第171章 游街</a>
+				 
+				
+			
+		
+		
+		</li>
+	
+		<li>
+		
+	    
+			
+			
+				<a href="/goChapterContent.action?qdid=22302903&is_ctwap=1&bookId=100000225954593&chapterId=173&fromModule=J-bookmulu-mulu-chapter" rel="nofollow">第一卷 甲午战争-第172章 枭首示众</a>
+				 
+				
+			
+		
+		
+		</li>
+	
+		<li>
+		
+	    
+			
+			
+				<a href="/goChapterContent.action?qdid=22302903&is_ctwap=1&bookId=100000225954593&chapterId=174&fromModule=J-bookmulu-mulu-chapter" rel="nofollow">第一卷 甲午战争-第173章 李鸿章的考虑</a>
+				 
+				
+			
+		
+		
+		</li>
+	
+		<li>
+		
+	    
+			
+			
+				<a href="/goChapterContent.action?qdid=22302903&is_ctwap=1&bookId=100000225954593&chapterId=175&fromModule=J-bookmulu-mulu-chapter" rel="nofollow">第一卷 甲午战争-第174章 劝降</a>
+				 
+				
+			
+		
+		
+		</li>
+	
+		<li>
+		
+	    
+			
+			
+				<a href="/goChapterContent.action?qdid=22302903&is_ctwap=1&bookId=100000225954593&chapterId=176&fromModule=J-bookmulu-mulu-chapter" rel="nofollow">第一卷 甲午战争-第175章 小鬼子的死期</a>
+				 
+				
+			
+		
+		
+		</li>
+	
+		<li>
+		
+	    
+			
+			
+				<a href="/goChapterContent.action?qdid=22302903&is_ctwap=1&bookId=100000225954593&chapterId=177&fromModule=J-bookmulu-mulu-chapter" rel="nofollow">第一卷 甲午战争-第176章 全力备战</a>
+				 
+				
+			
+		
+		
+		</li>
+	
+		<li>
+		
+	    
+			
+			
+				<a href="/goChapterContent.action?qdid=22302903&is_ctwap=1&bookId=100000225954593&chapterId=178&fromModule=J-bookmulu-mulu-chapter" rel="nofollow">第一卷 甲午战争-第177章 人和人真的不一样</a>
+				 
+				
+			
+		
+		
+		</li>
+	
+		<li>
+		
+	    
+			
+			
+				<a href="/goChapterContent.action?qdid=22302903&is_ctwap=1&bookId=100000225954593&chapterId=179&fromModule=J-bookmulu-mulu-chapter" rel="nofollow">第一卷 甲午战争-第178章 军中败类</a>
+				 
+				
+			
+		
+		
+		</li>
+	
+	</ul>
+	<form action="/bookdetail/100000225954593/gobookdescription.html?qdid=22302903&is_ctwap=1&" method="post">
+	<div class="xpage">
+		
+			<span class="item"><span class="dis"><a href="/bookdetail/100000225954593/gobookdescription.html?qdid=22302903&is_ctwap=1&curpage=1&pagesize=20&orderBy=0" rel="nofollow">最前</a></span></span>
+		
+		
+		
+			<span class="item"><span class="dis"><a href="/bookdetail/100000225954593/gobookdescription.html?qdid=22302903&is_ctwap=1&isprev=1&curpage=9&pagesize=20&orderBy=0" rel="nofollow">上一页</a></span></span>
+		
+		
+		<span class="item">9/9</span>
+		
+		
+		<span class="item"><span class="dis">下一页</span></span>
+		
+		
+		
+		<span class="item"><span class="dis">最后</span></span>
+		
+		</div>
+		
+		<div class="mod pad-t5"><div class="col-box">
+		
+		
+		
+			
+				
+				
+				
+					
+								
+							<a href="/goChapterContent.action?qdid=22302903&is_ctwap=1&bookId=100000225954593&chapterId=&fromModule=J-book-detail-read" class="btn-lightblue mt">
+							
+								
+								
+									免费试读
+								
+							
+							</a>&nbsp;&nbsp;
+						
+						
+					
+				
+				
+				
+				
+				
+				</div>
+				</div>
+<div class="mod pad-b"><div>
+
+
+		    
+				
+					<a href='/makeNoticeDz.action?qdid=22302903&is_ctwap=1&tempid=100000225954593&fromModule=J-bookmulu-detail-remind' class="btn-grade" style="display:block;" rel="nofollow">定制追书神器</a>
+				
+			
+		
+</div></div>
+		
+	</form>
+	</ul>
+	</div>
+
+
+<div class="mod-title">
+    <span class="flag-color"></span>
+    同类书推荐
+</div>
+	
+	<div class="mod">
+		<ul>
+			
+				
+				
+					
+			       	<li>
+				  		<a href="/bookdetail/10000087616103/gobookinfo.html?qdid=22302903&is_ctwap=1&rcmd=1&fromModule=J-book-recommendbook-content-1">细节改变历史(王子超)</a>
+					</li>
+			    
+					
+			       	<li>
+				  		<a href="/bookdetail/100000216856266/gobookinfo.html?qdid=22302903&is_ctwap=1&rcmd=2&fromModule=J-book-recommendbook-content-2">历史巨作－两晋(（清）蔡东藩)</a>
+					</li>
+			    
+					
+			       	<li>
+				  		<a href="/bookdetail/100000214531220/gobookinfo.html?qdid=22302903&is_ctwap=1&rcmd=3&fromModule=J-book-recommendbook-content-3">窃唐(宗承灏)</a>
+					</li>
+			    
+		    
+		    
+		    
+		</ul>
+	</div>
+<div class="hx"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<div class="mod pad-v">
+		    <a href="#top" class="link-gotop">回顶部</a>
+		</div>
+	
+
+
+
+<div class="mod"> 
+	<ul>
+		<li>
+			
+				
+				<a href="javascript:history.back(-1)"  style="color: #0B62A7" target="_top">返回上一页</a>
+			&nbsp;
+			
+				
+					
+				
+			
+		</li>
+	</ul>
+</div>
+	
+<div class="foot-nav">
+	<p>
+		<a href="/index.action?qdid=22302903&is_ctwap=1&fromModule=J-global-endNav-shucheng" rel="nofollow">首页</a>
+		<a href="/pindao/nansheng/index.html?qdid=22302903&is_ctwap=1&fromModule=J-global-endNav-boy" rel="nofollow">男频</a>
+       	<a href="/pindao/nvsheng/index.html?qdid=22302903&is_ctwap=1&fromModule=J-global-endNav-girl" rel="nofollow">女频</a>
+		<a href="/pindao/pinzhi/index.html?qdid=22302903&is_ctwap=1&fromModule=J-global-endNav-pz" rel="nofollow">出版</a>
+		<a href="/bookmark_getSystemBookMark.action?qdid=22302903&is_ctwap=1&fromModule=J-global-endNav-bookshelf" rel="nofollow">书架</a>
+	</p>
+	
+	<p>
+		<a href="/magazineList.action?qdid=22302903&is_ctwap=1&fltype=3&fromModule=J-global-endNav-magazine" rel="nofollow">杂志</a>
+		<a href="/cartoonChannel.action?qdid=22302903&is_ctwap=1&fromModule=J-global-endNav-cartoon" rel="nofollow">漫画</a>
+		<a href="/baoyueListAction.action?qdid=22302903&is_ctwap=1&fromModule=J-global-endNav-package" rel="nofollow">包月</a>
+		<a href="/help.action?qdid=22302903&is_ctwap=1&fromModule=J-global-endNav-help" rel="nofollow">帮助</a>
+		<a href="http://wap.tyread.com/cms/client/jian/jian_index.jsp?qdid=22302903&is_ctwap=1&fromModule=J-global-endNav-download" rel="nofollow">客户端</a>
+	</p>
+</div>
+<div class="footer">
+	<p class="version">&lt;<a href="/bookdetail/100000225954593/gobookdescription.html?qdid=22302903&is_ctwap=1&xtype=1&fromModule=J-global-foot-j" rel="nofollow">简版</a><span> | </span><a href="/bookdetail/100000225954593/gobookdescription.html?qdid=22302903&is_ctwap=1&xtype=2&fromModule=J-global-foot-X" rel="nofollow">炫版</a>&gt;
+	<!-- 退出 -->
+	   
+			
+				
+			
+			
+		
+	</p>
+	<p>浙网文[2012]0865-089</p>
+	<p>浙B2-20120340</p>
+	<p>客服电话:118178<font class="txt-red">(8:00-24:00)</font></p>
+	<p>微信服务号：天翼阅读</p>
+</div>
+
+
+<!-- Times : 74ms -->
+
+
+
+
+
+<img src="http://hm.baidu.com/hm.gif?si=1079a22e86e78cc89cf913a8e2f0b3f3&amp;et=0&amp;nv=1&amp;st=1&amp;v=wap-2-0.3&amp;rnd=289446223" width="0" height="0"  />
+</body>
+</html>

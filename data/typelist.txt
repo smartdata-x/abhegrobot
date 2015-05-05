@@ -1,0 +1,490 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="Expires" content="0"/>
+	<meta http-equiv="Cache-Control" content="no-cache" />
+	<meta http-equiv="Cache-control" content="max-age=1700" />
+	<meta http-equiv="Pragma" content="no-cache"/>
+	
+	
+	<!--  
+	<meta name="viewport" content="width=device-width, initial-scale=1.3, minimum-scale=1.3, maximum-scale=1.3"/>
+	<meta name="viewport" content="initial-scale=1.3, minimum-scale=1.3, maximum-scale=1.3"/>
+	
+	<meta name="baidu-site-verification" content="EActxjg0Wj" />
+	<meta name="sogou_site_verification" content="jE6GDyMmaP"/>
+	-->
+	<meta name="viewport" content="width=device-width,user-scalable=no"/>
+	<meta name="MobileOptimized" content="240"/>
+	
+		
+			<meta name="keywords" content="天翼阅读" />
+		
+		
+	
+	
+	
+		
+			<meta name="description" content="天翼阅读" />
+		
+		
+	
+	
+	<link type="text/css" href="http://61.130.247.183/static/wap/style/simple/css/main.css" rel="stylesheet" id="internalStyle" />
+	
+	
+	
+	
+	
+	
+	
+	<title>天翼阅读，更懂阅读的你</title>
+	<script language="javascript">
+	<!--
+   if (top.location != location){
+	    var toplocation = top.location +"";
+		if(!(toplocation.indexOf("61.183.11.149:8080")>=0)){
+		   top.location.href = location.href;
+		}
+   }
+   //-->
+	</script>
+</head>
+
+	<body class="page-pub">
+	
+	
+	
+	
+	
+
+<a name="anch-0"></a>
+
+
+
+
+
+
+<a href="#anch-1" id="anch-0" accesskey="2"></a>
+
+<div class="mod-topbar">
+	<p>
+		<a href="/index.action?qdid=22302903&is_ctwap=1&">首页</a>
+		<span class="split">&gt;</span>		
+		<a href="/subFenleiall.action?qdid=22302903&is_ctwap=1&">分类</a>
+        <span class="split">&gt;</span>	
+       
+			
+			<a href="/chuban/lishijunshi-342-1/index.html?qdid=22302903&is_ctwap=1&">历史军事</a>
+        <span class="split">&gt;</span>	
+        分类库
+	</p>
+</div>
+
+<ul class="list-lines border-t">
+	
+
+	
+		
+			
+				
+				<li>1、
+				<a href="/bookdetail/100000226423411/gobookinfo.html?qdid=22302903&is_ctwap=1&fromModule=J-flpage-lishijunshi-flk-1">三国之季汉风流</a></li>
+			
+				
+				<li>2、
+				<a href="/bookdetail/100000226407284/gobookinfo.html?qdid=22302903&is_ctwap=1&fromModule=J-flpage-lishijunshi-flk-2">三国之北地枭雄</a></li>
+			
+				
+				<li>3、
+				<a href="/bookdetail/100000226387584/gobookinfo.html?qdid=22302903&is_ctwap=1&fromModule=J-flpage-lishijunshi-flk-3">世界历史未解之谜大全集</a></li>
+			
+				
+				<li>4、
+				<a href="/bookdetail/100000226387426/gobookinfo.html?qdid=22302903&is_ctwap=1&fromModule=J-flpage-lishijunshi-flk-4">红船</a></li>
+			
+				
+				<li>5、
+				<a href="/bookdetail/100000226377329/gobookinfo.html?qdid=22302903&is_ctwap=1&fromModule=J-flpage-lishijunshi-flk-5">历史盲必读的历史小故事：讲给孩子的春秋战国历史</a></li>
+			
+				
+				<li>6、
+				<a href="/bookdetail/100000225954593/gobookinfo.html?qdid=22302903&is_ctwap=1&fromModule=J-flpage-lishijunshi-flk-6">重生之重铸天朝</a></li>
+			
+				
+				<li>7、
+				<a href="/bookdetail/100000225954588/gobookinfo.html?qdid=22302903&is_ctwap=1&fromModule=J-flpage-lishijunshi-flk-7">武圣传说之岳武穆篇</a></li>
+			
+				
+				<li>8、
+				<a href="/bookdetail/100000225954591/gobookinfo.html?qdid=22302903&is_ctwap=1&fromModule=J-flpage-lishijunshi-flk-8">元首的愤怒</a></li>
+			
+				
+				<li>9、
+				<a href="/bookdetail/100000225954584/gobookinfo.html?qdid=22302903&is_ctwap=1&fromModule=J-flpage-lishijunshi-flk-9">我要造反</a></li>
+			
+				
+				<li>10、
+				<a href="/bookdetail/100000225954575/gobookinfo.html?qdid=22302903&is_ctwap=1&fromModule=J-flpage-lishijunshi-flk-10">三国卑鄙军阀</a></li>
+			
+				
+				<li>11、
+				<a href="/bookdetail/100000225954579/gobookinfo.html?qdid=22302903&is_ctwap=1&fromModule=J-flpage-lishijunshi-flk-11">隋末阴雄</a></li>
+			
+				
+				<li>12、
+				<a href="/bookdetail/100000225954571/gobookinfo.html?qdid=22302903&is_ctwap=1&fromModule=J-flpage-lishijunshi-flk-12">清末英雄</a></li>
+			
+				
+				<li>13、
+				<a href="/bookdetail/100000225954567/gobookinfo.html?qdid=22302903&is_ctwap=1&fromModule=J-flpage-lishijunshi-flk-13">明旗</a></li>
+			
+				
+				<li>14、
+				<a href="/bookdetail/100000225954565/gobookinfo.html?qdid=22302903&is_ctwap=1&fromModule=J-flpage-lishijunshi-flk-14">崛起之新帝国时代</a></li>
+			
+				
+				<li>15、
+				<a href="/bookdetail/100000225954563/gobookinfo.html?qdid=22302903&is_ctwap=1&fromModule=J-flpage-lishijunshi-flk-15">活在唐朝</a></li>
+			
+				
+				<li>16、
+				<a href="/bookdetail/100000225954553/gobookinfo.html?qdid=22302903&is_ctwap=1&fromModule=J-flpage-lishijunshi-flk-16">狗运战神</a></li>
+			
+				
+				<li>17、
+				<a href="/bookdetail/100000225954547/gobookinfo.html?qdid=22302903&is_ctwap=1&fromModule=J-flpage-lishijunshi-flk-17">带着鬼姬闯战国</a></li>
+			
+				
+				<li>18、
+				<a href="/bookdetail/100000225954545/gobookinfo.html?qdid=22302903&is_ctwap=1&fromModule=J-flpage-lishijunshi-flk-18">大唐弄臣</a></li>
+			
+				
+				<li>19、
+				<a href="/bookdetail/100000225954539/gobookinfo.html?qdid=22302903&is_ctwap=1&fromModule=J-flpage-lishijunshi-flk-19">穿入中世纪</a></li>
+			
+				
+				<li>20、
+				<a href="/bookdetail/100000225954541/gobookinfo.html?qdid=22302903&is_ctwap=1&fromModule=J-flpage-lishijunshi-flk-20">大明神相</a></li>
+			
+				
+				<li>21、
+				<a href="/bookdetail/100000225954543/gobookinfo.html?qdid=22302903&is_ctwap=1&fromModule=J-flpage-lishijunshi-flk-21">大唐城管大队</a></li>
+			
+				
+				<li>22、
+				<a href="/bookdetail/100000225951026/gobookinfo.html?qdid=22302903&is_ctwap=1&fromModule=J-flpage-lishijunshi-flk-22">帝国的终结</a></li>
+			
+				
+				<li>23、
+				<a href="/bookdetail/100000225949718/gobookinfo.html?qdid=22302903&is_ctwap=1&fromModule=J-flpage-lishijunshi-flk-23">帝国的惆怅</a></li>
+			
+				
+				<li>24、
+				<a href="/bookdetail/100000225949684/gobookinfo.html?qdid=22302903&is_ctwap=1&fromModule=J-flpage-lishijunshi-flk-24">帝国政界往事：大清是如何拿下天下的</a></li>
+			
+				
+				<li>25、
+				<a href="/bookdetail/100000225949680/gobookinfo.html?qdid=22302903&is_ctwap=1&fromModule=J-flpage-lishijunshi-flk-25">帝国政界往事：大清是如何拿下天下的：终结版</a></li>
+			
+				
+				<li>26、
+				<a href="/bookdetail/100000225949676/gobookinfo.html?qdid=22302903&is_ctwap=1&fromModule=J-flpage-lishijunshi-flk-26">易中天中华史：两汉两罗马</a></li>
+			
+				
+				<li>27、
+				<a href="/bookdetail/100000225949674/gobookinfo.html?qdid=22302903&is_ctwap=1&fromModule=J-flpage-lishijunshi-flk-27">易中天中华史：汉武的帝国</a></li>
+			
+				
+				<li>28、
+				<a href="/bookdetail/100000225933328/gobookinfo.html?qdid=22302903&is_ctwap=1&fromModule=J-flpage-lishijunshi-flk-28">白骨铸军魂</a></li>
+			
+				
+				<li>29、
+				<a href="/bookdetail/100000225925558/gobookinfo.html?qdid=22302903&is_ctwap=1&fromModule=J-flpage-lishijunshi-flk-29">三国之小兵传奇</a></li>
+			
+				
+				<li>30、
+				<a href="/bookdetail/100000225862520/gobookinfo.html?qdid=22302903&is_ctwap=1&fromModule=J-flpage-lishijunshi-flk-30">大烟狼</a></li>
+			
+				
+				<li>31、
+				<a href="/bookdetail/100000225861998/gobookinfo.html?qdid=22302903&is_ctwap=1&fromModule=J-flpage-lishijunshi-flk-31">黑客间谍：揭秘斯诺登背后的高科技情报战</a></li>
+			
+				
+				<li>32、
+				<a href="/bookdetail/100000225859592/gobookinfo.html?qdid=22302903&is_ctwap=1&fromModule=J-flpage-lishijunshi-flk-32">历史的狼性征服——大唐开国的政治真相</a></li>
+			
+				
+				<li>33、
+				<a href="/bookdetail/100000225859534/gobookinfo.html?qdid=22302903&is_ctwap=1&fromModule=J-flpage-lishijunshi-flk-33">剩女桃花劫</a></li>
+			
+				
+				<li>34、
+				<a href="/bookdetail/100000225859530/gobookinfo.html?qdid=22302903&is_ctwap=1&fromModule=J-flpage-lishijunshi-flk-34">重生之颠覆大宋</a></li>
+			
+				
+				<li>35、
+				<a href="/bookdetail/100000225845658/gobookinfo.html?qdid=22302903&is_ctwap=1&fromModule=J-flpage-lishijunshi-flk-35">医圣记</a></li>
+			
+				
+				<li>36、
+				<a href="/bookdetail/100000225845656/gobookinfo.html?qdid=22302903&is_ctwap=1&fromModule=J-flpage-lishijunshi-flk-36">逍遥侯</a></li>
+			
+				
+				<li>37、
+				<a href="/bookdetail/100000225845654/gobookinfo.html?qdid=22302903&is_ctwap=1&fromModule=J-flpage-lishijunshi-flk-37">我的明末生涯</a></li>
+			
+				
+				<li>38、
+				<a href="/bookdetail/100000225845652/gobookinfo.html?qdid=22302903&is_ctwap=1&fromModule=J-flpage-lishijunshi-flk-38">燃烧的莫斯科</a></li>
+			
+				
+				<li>39、
+				<a href="/bookdetail/100000225845523/gobookinfo.html?qdid=22302903&is_ctwap=1&fromModule=J-flpage-lishijunshi-flk-39">向特种部队学习：执行力</a></li>
+			
+				
+				<li>40、
+				<a href="/bookdetail/100000225830008/gobookinfo.html?qdid=22302903&is_ctwap=1&fromModule=J-flpage-lishijunshi-flk-40">西夏春秋</a></li>
+			
+				
+				<li>41、
+				<a href="/bookdetail/100000225830000/gobookinfo.html?qdid=22302903&is_ctwap=1&fromModule=J-flpage-lishijunshi-flk-41">慰安妇血泪</a></li>
+			
+				
+				<li>42、
+				<a href="/bookdetail/100000225829988/gobookinfo.html?qdid=22302903&is_ctwap=1&fromModule=J-flpage-lishijunshi-flk-42">书房沟</a></li>
+			
+				
+				<li>43、
+				<a href="/bookdetail/100000225829984/gobookinfo.html?qdid=22302903&is_ctwap=1&fromModule=J-flpage-lishijunshi-flk-43">貂蝉</a></li>
+			
+				
+				<li>44、
+				<a href="/bookdetail/100000225829980/gobookinfo.html?qdid=22302903&is_ctwap=1&fromModule=J-flpage-lishijunshi-flk-44">阿宫</a></li>
+			
+				
+				<li>45、
+				<a href="/bookdetail/100000225829975/gobookinfo.html?qdid=22302903&is_ctwap=1&fromModule=J-flpage-lishijunshi-flk-45">最后的女匪</a></li>
+			
+				
+				<li>46、
+				<a href="/bookdetail/100000225826959/gobookinfo.html?qdid=22302903&is_ctwap=1&fromModule=J-flpage-lishijunshi-flk-46">中华上下五千年全知道</a></li>
+			
+				
+				<li>47、
+				<a href="/bookdetail/100000225816933/gobookinfo.html?qdid=22302903&is_ctwap=1&fromModule=J-flpage-lishijunshi-flk-47">婴齐传</a></li>
+			
+				
+				<li>48、
+				<a href="/bookdetail/100000225816931/gobookinfo.html?qdid=22302903&is_ctwap=1&fromModule=J-flpage-lishijunshi-flk-48">青梅煮酒话西汉之楚汉争霸</a></li>
+			
+				
+				<li>49、
+				<a href="/bookdetail/100000225816923/gobookinfo.html?qdid=22302903&is_ctwap=1&fromModule=J-flpage-lishijunshi-flk-49">虎口索食第一人：晚清外交家曾纪泽</a></li>
+			
+				
+				<li>50、
+				<a href="/bookdetail/100000225816921/gobookinfo.html?qdid=22302903&is_ctwap=1&fromModule=J-flpage-lishijunshi-flk-50">中法战争</a></li>
+			
+		
+		
+	
+</ul>
+
+<form action="/catelib.action?f=1&rankType=2&standColId=342&phtype=1&qdid=22302903&is_ctwap=1&" method="post"><div class='mod'><a href="/catelib.action?f=1&rankType=2&standColId=342&phtype=1&qdid=22302903&is_ctwap=1&pageNo=2">下一页</a> &nbsp;1/81&nbsp;<input type="text" size="2" autocomplete="off" name="pageNo"/><input type="submit" value="GO"/></div></form>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 搜索 -->
+
+<div class="mod-search pad-v">
+	<form action="/sendSearchContent.action?qdid=22302903&is_ctwap=1&fromModule=" method="get" accept-charset="UTF-8">
+	   	
+	    <input name="text" type="text" class="ctl"  size="10" maxlength="20" value="空间" onfocus="hiderTitle(this);" />
+	    <input type="hidden" name="type" value="6">
+		<input type="submit" class="btn-search" value="" />
+	 </form>
+</div>
+<!-- 热词 -->
+
+
+<div class="mod-keyword">
+	<div style="width:100%;overflow:hidden;text-align:center;">
+		<div style="display:inline;float:left;height:20px;line-height:20px;text-align:center;">
+			热搜：
+		</div>
+		
+		<div style="display:inline;float:left;height:20px;line-height:20px;text-align:center;">
+			
+			<a href="/sendSearchContent.action?qdid=22302903&is_ctwap=1&tyt=30343,21518,&type=6&fromModule=" rel="nofollow">皇后</a>
+		</div>
+		
+		<div style="display:inline;float:left;height:20px;line-height:20px;text-align:center;">
+			
+			<a href="/sendSearchContent.action?qdid=22302903&is_ctwap=1&tyt=27946,33618,&type=6&fromModule=" rel="nofollow">洪荒</a>
+		</div>
+		
+		<div style="display:inline;float:left;height:20px;line-height:20px;text-align:center;">
+			
+			<a href="/sendSearchContent.action?qdid=22302903&is_ctwap=1&tyt=24635,35009,&type=6&fromModule=" rel="nofollow">总裁</a>
+		</div>
+		
+		<div style="display:inline;float:left;height:20px;line-height:20px;text-align:center;">
+			
+			<a href="/sendSearchContent.action?qdid=22302903&is_ctwap=1&tyt=22865,32422,&type=6&fromModule=" rel="nofollow">契约</a>
+		</div>
+		
+		<div style="display:inline;float:left;height:20px;line-height:20px;text-align:center;">
+			
+			<a href="/sendSearchContent.action?qdid=22302903&is_ctwap=1&tyt=23456,22971,&type=6&fromModule=" rel="nofollow">宠妻</a>
+		</div>
+		
+		<div style="display:inline;float:left;height:20px;line-height:20px;text-align:center;">
+			
+			<a href="/sendSearchContent.action?qdid=22302903&is_ctwap=1&tyt=31995,32479,&type=6&fromModule=" rel="nofollow">系统</a>
+		</div>
+		
+		<div style="display:inline;float:left;height:20px;line-height:20px;text-align:center;">
+			
+			<a href="/sendSearchContent.action?qdid=22302903&is_ctwap=1&tyt=21733,21733,&type=6&fromModule=" rel="nofollow">哥哥</a>
+		</div>
+		
+	</div>
+	<script>
+		var isNotOne = false;
+		function hiderTitle(obj){
+			if(!isNotOne){
+				obj.value ="";
+				isNotOne = true;//确保只运行一次
+			}
+		}
+	</script>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		<div class="mod pad-v">
+		    <a href="#top" class="link-gotop">回顶部</a>
+		</div>
+	
+
+
+
+<div class="mod"> 
+	<ul>
+		<li>
+			
+				
+				<a href="javascript:history.back(-1)"  style="color: #0B62A7" target="_top">返回上一页</a>
+			&nbsp;
+			
+				
+					
+				
+			
+		</li>
+	</ul>
+</div>
+	
+<div class="foot-nav">
+	<p>
+		<a href="/index.action?qdid=22302903&is_ctwap=1&fromModule=J-global-endNav-shucheng" rel="nofollow">首页</a>
+		<a href="/pindao/nansheng/index.html?qdid=22302903&is_ctwap=1&fromModule=J-global-endNav-boy" rel="nofollow">男频</a>
+       	<a href="/pindao/nvsheng/index.html?qdid=22302903&is_ctwap=1&fromModule=J-global-endNav-girl" rel="nofollow">女频</a>
+		<a href="/pindao/pinzhi/index.html?qdid=22302903&is_ctwap=1&fromModule=J-global-endNav-pz" rel="nofollow">出版</a>
+		<a href="/bookmark_getSystemBookMark.action?qdid=22302903&is_ctwap=1&fromModule=J-global-endNav-bookshelf" rel="nofollow">书架</a>
+	</p>
+	
+	<p>
+		<a href="/magazineList.action?qdid=22302903&is_ctwap=1&fltype=3&fromModule=J-global-endNav-magazine" rel="nofollow">杂志</a>
+		<a href="/cartoonChannel.action?qdid=22302903&is_ctwap=1&fromModule=J-global-endNav-cartoon" rel="nofollow">漫画</a>
+		<a href="/baoyueListAction.action?qdid=22302903&is_ctwap=1&fromModule=J-global-endNav-package" rel="nofollow">包月</a>
+		<a href="/help.action?qdid=22302903&is_ctwap=1&fromModule=J-global-endNav-help" rel="nofollow">帮助</a>
+		<a href="http://wap.tyread.com/cms/client/jian/jian_index.jsp?qdid=22302903&is_ctwap=1&fromModule=J-global-endNav-download" rel="nofollow">客户端</a>
+	</p>
+</div>
+<div class="footer">
+	<p class="version">&lt;<a href="/catelib.action?f=1&rankType=2&standColId=342&phtype=1&qdid=22302903&is_ctwap=1&xtype=1&fromModule=J-global-foot-j" rel="nofollow">简版</a><span> | </span><a href="/catelib.action?f=1&rankType=2&standColId=342&phtype=1&qdid=22302903&is_ctwap=1&xtype=2&fromModule=J-global-foot-X" rel="nofollow">炫版</a>&gt;
+	<!-- 退出 -->
+	   
+			
+				
+			
+			
+		
+	</p>
+	<p>浙网文[2012]0865-089</p>
+	<p>浙B2-20120340</p>
+	<p>客服电话:118178<font class="txt-red">(8:00-24:00)</font></p>
+	<p>微信服务号：天翼阅读</p>
+</div>
+
+
+<!-- Times : 247ms -->
+
+
+
+
+
+<img src="http://hm.baidu.com/hm.gif?si=1079a22e86e78cc89cf913a8e2f0b3f3&amp;et=0&amp;nv=1&amp;st=1&amp;v=wap-2-0.3&amp;rnd=1386380636" width="0" height="0"  />
+</body>
+</html>

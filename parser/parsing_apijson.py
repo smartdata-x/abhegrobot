@@ -20,5 +20,5 @@ def ParsingApiJson(content):
         else:
             return 0,result
     except:
-        return 0,result
+        return 0,None
     
